@@ -92,7 +92,7 @@ const Home = ({ user }) => {
       <section className={cx(styles["home-section"])}>
         <header className={cx(styles.sectionHeader, "container")}>
           <h2 className={styles.heading}>
-            <span>Messages</span>
+            <span>Message</span>
           </h2>
         </header>
         <Message />

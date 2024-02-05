@@ -178,6 +178,12 @@ export const mainCoordinators = [
 
 export const organizsers = [
   {
+    name: "Muskan Khan",
+    imgSrc: "/media/organizsers/muskan.webp",
+    roles: ["Organizer"],
+    department: "Petroleum Engineering",
+  },
+  {
     name: "Kunal Jaiswal",
     imgSrc: "/media/organizsers/kunal.webp",
     roles: ["Organizer"],
@@ -195,12 +201,7 @@ export const organizsers = [
     roles: ["Organizer"],
     department: "Computer Science and Engineering",
   },
-  {
-    name: "Kaushal Kumar Srivastava",
-    imgSrc: "/media/organizsers/Kaushal.webp",
-    roles: ["Organizer"],
-    department: "Mechanical Engineering",
-  },
+  
 ];
 
 export const professors = [
